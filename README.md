@@ -1,8 +1,12 @@
 # Todos & Posts Project
 
+## 🎥 Preview
+
+https://github.com/user-attachments/assets/fc276bdf-0321-4938-8f06-b9cc947e483b
+
 ## 📋 Features
 
-### ✅ Todos Management
+### ✏️ Todos Management
 
 A fully functional Todo application demonstrating client-side state management.
 
